@@ -1,2 +1,2 @@
 # socketio-live-bubbles
-SocketIO Live Babbles
+SocketIO Live Bubbles
