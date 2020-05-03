@@ -1,2 +1,2 @@
-# socketio-live-balls
-SocketIO Live Balls
+# socketio-live-bubbles
+SocketIO Live Babbles
