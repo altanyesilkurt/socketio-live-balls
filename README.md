@@ -1,2 +1,2 @@
-# socketio-live-bubbles
-SocketIO Live Bubbles
+# socketio-live-chat-bubbles
+SocketIO Live Chat Bubbles
